@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Product page*/
+#wcatc_meta_box .catcbll_clone{padding: 20px;background: #f6f4f4}
+#wcatc_meta_box .even{border-top: ridge;border-bottom: ridge}
+#wcatc_meta_box .wcatcbll_mr_100{margin-right: 100px;}
+#wcatc_meta_box .inside{padding: 0 0px 12px !important}
+#wcatc_meta_box .wcatcbll_p-20{padding: 20px;}
+#wcatc_meta_box .wcatcbll_content{border-top-style: outset;border-bottom-style: inset;background: #f6f4f4;}
+#wcatc_meta_box .wcatcbll{height: 50px;}
+#wcatc_meta_box .catcbll_add_btn{padding: 8px;background: #22db22;color: #fff;border: 1px solid #22db22;border-radius: 4px;}
+#wcatc_meta_box .wcatcbll{text-align: right;}
+#wcatc_meta_box .tgl-indctr{position: absolute;margin: 12px 0px 0px -10px;}
+#wcatc_meta_box .rotate180{transform: rotate(180deg);}
+#wcatc_meta_box .tgl-indctr:before {
+    content: "\f142";
+    display: inline-block;
+    font: normal 20px/1 dashicons;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none!important;
+}
+#wcatc_meta_box .top_prd_btn {
+    position: absolute;
+    margin: 12px;
+    background: none;
+    border: none;
+    color: #ff0000;
+    cursor: pointer;
+}

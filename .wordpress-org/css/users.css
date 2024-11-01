@@ -1,0 +1,3 @@
+.addtocartbutton .fa{font-family: fontAwesome;}
+.single_add_to_cart_button .fa{font-family: fontAwesome;}
+.single_add_to_cart_button,.addtocartbutton{min-width: 140px;text-align: center;}
